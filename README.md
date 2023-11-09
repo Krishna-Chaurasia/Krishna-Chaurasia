@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">A passionate software developer from India </h3>
-<div align="center">
+<div align="left">
  
  🔭 I’m currently enhancing my Java Skills.
  
