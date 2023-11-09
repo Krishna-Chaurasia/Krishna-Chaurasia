@@ -17,7 +17,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,mui,tailwind,redux,javascript,typescript,nodejs,express,"/>
-    <img src="https://skillicons.dev/icons?i=go,java,jsp,prisma,postgres,supabase,mongodb" />
+    <img src="https://skillicons.dev/icons?i=go,java,c,cpp,postgres,mysql" />
 </div>
 <br/>
 
