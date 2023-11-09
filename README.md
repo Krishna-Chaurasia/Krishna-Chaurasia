@@ -18,8 +18,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,,mui,tailwind,redux,javascript,typescript,nodejs,express" />
-    <img src="https://skillicons.dev/icons?i=go,java,prisma,postgres,supabase,mongodb," />
+    <img src="https://skillicons.dev/icons?i=react,mui,tailwind,redux,javascript,typescript,nodejs,express" />
+    <img src="https://skillicons.dev/icons?i=go,java,jsp,prisma,postgres,supabase,mongodb," />
 </div>
 <br/>
 
